@@ -1,0 +1,51 @@
+sorgu,isim,soyisim,sehir,bolum,puan,numara,cinsiyet
+1,Ahmet,Yılmaz,İstanbul,Bilgisayar Müh.,85,1001,Erkek
+2,Ayşe,Kaya,Ankara,Elektrik Müh.,92,1002,Kadın
+3,Mehmet,Demir,İzmir,Makine Müh.,78,1003,Erkek
+4,Fatma,Çelik,Bursa,Kimya Müh.,65,1004,Kadın
+5,Ali,Koç,Adana,İnşaat Müh.,88,1005,Erkek
+6,Zeynep,Aydın,Antalya,Biyoloji,95,1006,Kadın
+7,Hasan,Şahin,Konya,Matematik,73,1007,Erkek
+8,Elif,Öztürk,Trabzon,Fizik,81,1008,Kadın
+9,İbrahim,Arslan,Samsun,Endüstri Müh.,90,1009,Erkek
+10,Selin,Yıldız,Kayseri,Tıp,98,1010,Kadın
+11,Mustafa,Doğan,Eskişehir,Hukuk,67,1011,Erkek
+12,Ebru,Karaca,Denizli,Psikoloji,84,1012,Kadın
+13,Ömer,Taş,Gaziantep,Mimarlık,79,1013,Erkek
+14,Derya,Aksoy,Mersin,Sosyoloji,91,1014,Kadın
+15,Burak,Çetin,Diyarbakır,Ekonomi,76,1015,Erkek
+16,Aslı,Günay,Aydın,İşletme,83,1016,Kadın
+17,Emre,Kaplan,Malatya,Yazılım Müh.,87,1017,Erkek
+18,Seda,Sönmez,Sakarya,İstatistik,94,1018,Kadın
+19,Kadir,Uslu,Hatay,Tarih,72,1019,Erkek
+20,Buse,Erdem,Manisa,Grafik Tasarım,89,1020,Kadın
+21,Can,Polat,Balıkesir,Mekatronik Müh.,77,1021,Erkek
+22,Nazlı,Tekin,Kocaeli,Çevre Müh.,93,1022,Kadın
+23,Hakan,Bulut,Şanlıurfa,Felsefe,68,1023,Erkek
+24,Tuğba,Şimşek,Muğla,Turizm,86,1024,Kadın
+25,Mert,Gündüz,Çanakkale,Gıda Müh.,80,1025,Erkek
+26,Ceren,Korkmaz,Sivas,Diş Hekimliği,97,1026,Kadın
+27,Yusuf,Bayram,Erzurum,Jeoloji Müh.,74,1027,Erkek
+28,Gül,Çiçek,Van,Hemşirelik,82,1028,Kadın
+29,Barış,Özdemir,Rize,Spor Bilimleri,69,1029,Erkek
+30,Esra,Kurt,Tekirdağ,İç Mimarlık,91,1030,Kadın
+31,Fatih,Ekinci,Ordu,Otomotiv Müh.,75,1031,Erkek
+32,Pelin,Tuna,Zonguldak,Edebiyat,88,1032,Kadın
+33,Tolga,Sarı,Bilecik,Metalurji Müh.,70,1033,Erkek
+34,Melis,Aktaş,Isparta,Veterinerlik,96,1034,Kadın
+35,Enes,Kara,Kırıkkale,Uluslararası İlişk.,81,1035,Erkek
+36,İpek,Keleş,Kırşehir,Coğrafya,85,1036,Kadın
+37,Okan,Durmaz,Bartın,Kimya,66,1037,Erkek
+38,Aylin,Ergin,Çorum,Biyomedikal Müh.,92,1038,Kadın
+39,Serkan,Ünal,Karabük,Fizyoterapi,78,1039,Erkek
+40,Nisa,Toprak,Sinop,Halkla İlişkiler,87,1040,Kadın
+41,Umut,Güler,Giresun,Elektrik-Elektronik,83,1041,Erkek
+42,Simge,Çoban,Edirne,Ziraat Müh.,94,1042,Kadın
+43,Onur,Akın,Kastamonu,Kamu Yönetimi,71,1043,Erkek
+44,Leyla,Şen,Tunceli,Oyunculuk,90,1044,Kadın
+45,Arda,Ateş,Yozgat,Makine Ressamlığı,79,1045,Erkek
+46,Nil,Yiğit,Afyon,Radyo-TV,86,1046,Kadın
+47,Kerem,Şeker,Bolu,Lojistik,73,1047,Erkek
+48,Defne,Karaman,Kütahya,Beslenme-Diyet,95,1048,Kadın
+49,Bora,Üstün,Uşak,Petrol Müh.,68,1049,Erkek
+50,Ece,Çakır,Amasya,Dilbilim,89,1050,Kadın
